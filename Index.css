@@ -1,0 +1,54 @@
+#texto{
+    border:none;
+    background-color: rgb(2, 1, 51);
+    float: left;
+    color: white;
+    height: 450px;
+    margin: auto;
+    padding: 15px;
+}
+.caminata{
+    float: left;
+    height: 406px;
+   
+}
+.d-none d-md-block{
+float: left;
+}
+nav img{
+    width: 80px;
+}
+nav .text-matricula{
+    color: #97c9be;
+}
+#principal img{
+    max-height: 70vh;
+    object-fit: cover;
+}
+#principal{
+    position: relative;
+}
+#principal #contenido{
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    height: 100%;
+    color: white;
+}
+#principal .container{
+    width: 100%;
+    height: 100%;
+}
+#principal .row{
+    width: 100%;
+    height: 100%;
+}
+#footer{
+    background-color: #112E4F;
+}
+#footer a{
+    text-decoration: none;
+    color: white;
+}
